@@ -1,0 +1,50 @@
+h1{
+  font-size: 3em;
+  text-align: center;
+  background-color: #eaeaea;
+}
+h2 {
+  text-align: center;
+}
+
+li{
+  list-style: none;
+}
+
+.user{
+  margin-left: 10px 0px 10px 0px;
+  font-size: 2em;
+  padding: 0px;
+}
+
+.info{
+  width: 100%;
+  padding-bottom: 10%;
+  border-bottom: 5px solid #000;
+  margin-bottom: 5%;
+}
+
+ul{
+  -moz-column-count: 4;
+  -moz-column-gap: 20px;
+  -webkit-column-count: 4;
+  -webkit-column-gap: 20px;
+  column-gap: 20px;
+}
+
+.form-control{
+  border: 1px solid #bbb;
+  width: 100%;
+  margin-bottom: 15px;
+}
+
+select {
+  width: 20%;
+  margin-bottom: 15px;
+}
+
+label{
+  width: 100%;
+  font-size: 1.5em;
+}
+
